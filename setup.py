@@ -1,10 +1,10 @@
 from setuptools import setup
 setup(
-    name = 'youtube',
+    name = 'youtubecli',
     version = '1.0.0',
-    packages = ['youtube'],
+    packages = ['youtubecli'],
     entry_points = {
         'console_scripts': [
-            'youtube = youtube.__main__:parser'
+            'youtubecli = youtubecli.__main__:parser'
         ]
     })
