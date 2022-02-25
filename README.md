@@ -11,3 +11,6 @@ Download video
 youtubecli --video youtube.com/link/to/video
 ```
 Download playlist
+```
+youtubecli --playlist youtube.com/link/to/playlist
+```
